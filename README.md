@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🌱 As a student, I am focused on strengthening my understanding of core computer science fundamentals. Delving deeper into these foundational concepts, I aim to enhance my problem-solving abilities and develop a deeper appreciation for the principles that drive modern software, projects, and teams.
 <!--
 **joshwalker9115/joshwalker9115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
